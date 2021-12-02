@@ -1,0 +1,57 @@
+html,
+body{
+    font-family: "Segoi UI", "Helvetica Neue",Verdana,Arial,sans-serif;
+    font-size: 16px;
+    height: 95%;
+}
+
+form{
+    width:23rem;
+    margin:8rem auto 1rem auto;
+    background-color: #e8eaed;
+    color: #8e9091;
+    border:solid #c3c8ff 1px;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+
+td{
+    padding: .2rem;
+}
+
+#resp{
+    width: 22rem;
+    margin: 1rem auto 2rem auto;
+    color: red;
+    padding: 1rem;
+}
+
+.botao{
+    background-color: #c4c8ff;
+    color:#0516fc;
+    padding:0.4rem;
+    border:0;
+    border-radius: .5rem;
+}
+
+.entrada{
+    border-radius: .5rem;
+    border: 0;
+}
+
+#nome,
+#email,
+#datanasc,
+#escolaridade{
+    width: 12rem;
+    height: 1.3rem;
+}
+
+option{
+    color:#8e9091;
+}
+
+#cadastro{
+    width: 12rem;
+}
+
